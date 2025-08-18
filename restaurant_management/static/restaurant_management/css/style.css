@@ -38,3 +38,20 @@ button{
 button:hover{
     background-color: #2980b9;
 }
+li{
+    padding: 10px;
+    border-bottom: 1px;
+
+}
+li:last-child{
+    border-bottom:none;
+}
+.menu-item-name{
+    font-weight: bold;
+}
+.menu-item-price{
+    float:right;
+    color:#28a745;
+}
+
+
