@@ -86,7 +86,7 @@ DATABASES = {
     }
 }
 
-
+RESTAURANT_PHONE_NUMBER =" +1 (123) 456-7890"
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 
